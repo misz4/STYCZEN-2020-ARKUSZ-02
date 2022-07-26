@@ -1,0 +1,37 @@
+* {
+    font-family: Georgia;
+}
+.gorny {
+    background-color: rgb(197, 85, 160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+    float: left;
+}
+header, footer{
+    background-color: rgb(246, 226, 222);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+    clear: both;
+}
+.main {
+    background-color: rgb(197, 85, 160);
+    color: white;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+.z {
+    background: url("cukierki1.png");
+
+}
+table, tr, td {
+    border: 2px solid blue;
+    margin: 20px;
+    padding: 10px;
+}
+h2 {
+    letter-spacing: 10px;
+    font-size: 200%;
+}
